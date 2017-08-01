@@ -14,10 +14,16 @@ This repository contains links to courses, exercises, articles and other resourc
 * [Exercism.io - Rust Track](http://exercism.io/languages/rust/)
 
 ## Interesting modules from the standard library 
-* [std::str](https://doc.rust-lang.org/stable/std/str/index.html)
+* [Module std::str](https://doc.rust-lang.org/stable/std/str/index.html)
+* [Module std::string](https://doc.rust-lang.org/stable/std/string/index.html)
+* [Primitive Type str](https://doc.rust-lang.org/stable/std/primitive.str.html)
+* [Module std::option](https://doc.rust-lang.org/stable/std/option/index.html)
 
 ## Other resources
 * [Newsletter "This Week in Rust"](https://this-week-in-rust.org/)
 * [Podcast "New Rustacean"](http://newrustacean.com/)
 * [Trending Rust-Repositories on GitHub](https://github.com/trending/rust)\
 * ["Awesome Rust"](https://github.com/rust-unofficial/awesome-rust)
+
+## Tools
+* [Code coverage reporting](https://github.com/xd009642/tarpaulin)
