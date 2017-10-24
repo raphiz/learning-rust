@@ -12,6 +12,7 @@ This repository contains links to courses, exercises, articles and other resourc
 
 ## Practice
 * [Exercism.io - Rust Track](http://exercism.io/languages/rust/)
+* [rustlings - Small exercises to get you used to reading and writing Rust code](https://github.com/carols10cents/rustlings)
 
 ## Interesting modules from the standard library 
 * [Module std::str](https://doc.rust-lang.org/stable/std/str/index.html)
@@ -24,6 +25,10 @@ This repository contains links to courses, exercises, articles and other resourc
 * [Podcast "New Rustacean"](http://newrustacean.com/)
 * [Trending Rust-Repositories on GitHub](https://github.com/trending/rust)\
 * ["Awesome Rust"](https://github.com/rust-unofficial/awesome-rust)
+* [stdx - The missing batteries of Rust](https://github.com/brson/stdx)
+* [Rosetta Code - different problems solved in different languages](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Tools
+* [Clippy - a linter for Rust](https://github.com/rust-lang-nursery/rust-clippy)
+* [Rust Language Server (aka RLS)](https://github.com/rust-lang-nursery/rls/) for e.g. [Visual Studio Code](https://code.visualstudio.com/)
 * [Code coverage reporting](https://github.com/xd009642/tarpaulin)
